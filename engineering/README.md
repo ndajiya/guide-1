@@ -14,5 +14,6 @@
   * [Scala](conventions-scala.md)
 * [Continuous Delivery](continuous-delivery.md)
 * [Documentation Guide](documentation.md)
-  * [Git Repo Templates](documents/)
+* [Template for New Projects](project-templates/)
 * [Licensing Policy](licensing.md)
+* [Other Documents](documents/)
