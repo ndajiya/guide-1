@@ -59,7 +59,7 @@ A few concrete examples:
 
 * Go library: it should be possible to use the library though the particular version published on `gopkg.in`
 * Scala library: it should be possible to use the library from a Maven/sbt build
-* Web site/application - should be accessible through a known (staging/production) environment URL
+* Website or application: it should be accessible through a known (staging/production) environment URL
 * etc
 
 
@@ -74,7 +74,7 @@ Issues from backlog that cannot be done, due to **a known dependency** should
 **never** go into the TODO column (thus avoid being blocked).
 Otherwise the work on that issue could not be started anymore, because it needs something done to move forward.
 
-Things that are not *blockers*:
+Other things that are not *blockers*:
 
 * change of priority (stop working on something for now)
 * a known, planned and expected issue (i.e dependency on another team’s work, that is handled in another issue
@@ -122,7 +122,7 @@ On *"blockers"* - a task can be blocked at any stage of the development, so
 there is no separate column and Tag is used instead, to signify if something is
 blocked. See the section above [What does Blocked mean?](#what-does-blocked-mean).
 
-More details in [Definition](#definition) section below.
+More details in [Definition](#definition) section above.
 
 ### How to pick next issues to work on?
 
